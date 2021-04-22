@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slider snaaapshot Comprobar ui del Slider 1`] = `
+<section
+  className="sc-bdvvaa eiQRHP"
+>
+  <div
+    className="sc-gsDJrp izHZSc"
+  >
+    <h2>
+      Nuevo en superFuds
+    </h2>
+    <a
+      href=""
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      ver mas
+    </a>
+  </div>
+  <div
+    className="swiper-container"
+  >
+    <div
+      className="swiper-wrapper"
+    />
+  </div>
+  <div
+    className="swiper-button-prev prev"
+  />
+  <div
+    className="swiper-button-next next"
+  />
+</section>
+`;
